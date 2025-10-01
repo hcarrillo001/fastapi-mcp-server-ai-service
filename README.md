@@ -16,3 +16,15 @@ Default Query: Navigate to Zillow and scrape all open houses this upcoming weeke
 
 <img width="2882" height="1288" alt="image" src="https://github.com/user-attachments/assets/d07d6863-817f-457c-ab28-b7fb072770b3" />
 
+
+Response example
+
+<img width="1409" height="806" alt="image" src="https://github.com/user-attachments/assets/3d51ca50-1d13-4c34-bbff-8b44e346a8ab" />
+
+
+
+
+Storage Mongo DB
+<img width="956" height="645" alt="image" src="https://github.com/user-attachments/assets/e1e0f5f9-c2ec-4e50-8084-f5e6064d63dd" />
+
+
