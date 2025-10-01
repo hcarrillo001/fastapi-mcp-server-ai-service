@@ -10,6 +10,8 @@ Try Scraping your favorite website and get the scraped data back using Bright Da
 How to Use
 
 Visit my Swagger UI Link: http://3.148.103.93/docs
+
+
 Click: POST
 Click: "Try it out"
 Default Query: Navigate to Zillow and scrape all open houses this upcoming weekend located in 80111 zip code.
