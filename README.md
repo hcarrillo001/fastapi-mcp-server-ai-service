@@ -9,7 +9,9 @@ Try Scraping your favorite website and get the scraped data back using Bright Da
 
 How to Use
 
-Visit my Swagger UI Link: http://3.148.103.93/docs
+Visit my Swagger UI Link: http://3.17.189.99/docs<img width="468" height="22" alt="image" src="https://github.com/user-attachments/assets/fd2da70c-666e-4155-b7e6-7e4d225ed83d" />
+
+
 
 
 Click: POST
